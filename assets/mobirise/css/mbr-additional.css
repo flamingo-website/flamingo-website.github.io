@@ -1434,7 +1434,7 @@ body {
   background: #149dcc;
 }
 .cid-rh3EBC88r0 .progress1 .progressbar-number:before {
-  content: '0';
+  content: '1';
 }
 .cid-rh3EBC88r0 .progress2 .progressbar-number:before {
   content: '0';
@@ -1518,4 +1518,16 @@ body {
 .cid-rh3E1NH040 .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-rh3RIDTY7e {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rh3MPvJg0V {
+  background: linear-gradient(45deg, #e4d295, #ff3366);
+}
+.cid-rh3MPvJg0V .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
 }
