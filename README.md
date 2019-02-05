@@ -8,8 +8,8 @@ This is still in early development.
  - Make a better mobile site
 
 # Credits
-Created by: Meowcat285 ([Twitter](https://twitter.com/meowcat285))
-Lead Developer: userlandkernel ([Twitter](https://twitter.com/userlandkernel))
+ - Created by: Meowcat285 ([Twitter](https://twitter.com/meowcat285))
+ - Lead Developer: userlandkernel ([Twitter](https://twitter.com/userlandkernel))
 
 
 
