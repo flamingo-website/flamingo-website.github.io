@@ -3,7 +3,7 @@ This is still in early development.
 
 # To-do
 
- - Add more IPASs
+ - Add more IPAs
  - Get a domain
  - Make a better mobile site
 
